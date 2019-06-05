@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "Kellyn Barnes",
+    "label": "Web Developer",
+    "picture": "https://secure.gravatar.com/avatar/29763da482728b86d064c100f195113f",
+    "email": "bkellyn013@gmail.com",
+    "website": "https://kellynb.github.io/Kellyn.Barnes/",
+    "summary": "Analytical, pragmatic, and customer-focused software engineer with a background in the craft brewing industry. Specializing in front-end web apps using the MERN  (MongoDB, Express.js, React, Node.js) stack.",
+    "phone": "(281) 382-6933",
+    "location": {
+      "city": "Austin",
+      "region": "Texas"
+    },
+    "profiles": 
+      [
+        {
+          "network": "GitHub",
+          "username": "kellynb",
+          "url": "https://github.com/kellynb"
+        },
+        {
+          "network": "LinkedIn",
+          "username": "kellynbarnes",
+          "url": "https://linkedin.com/in/kellynbarnes/"
+        }
+    ]
+  },
+  "projects": [
+    {
+          "name": "Towers of Hanoi",
+          "description": "Interactive game build with React",
+          "highlights": [
+            "Full-stack web game using React on the front-end.  The logic and gameplay is based on identifying, storing, and comparing one React component to another from user interactions.  Learned how to build out a back-end with Express and MongoDB which enabled each user’s score to be stored and a best score identified."
+          ],
+          "keywords": [
+            "MongoDB",
+            "Node",
+            "Express",
+            "React"
+          ],
+          "url": "https://towersofhanoi.herokuapp.com/",
+          "type": "Web Application"
+        },
+        {
+          "name": "BrewTracker",
+          "highlights": [
+            "Web app intended for production breweries that tracks a brew from brew day to packaging. The front-end is built with React using Material UI for styling and simple component build. RESTful APIs continually pass each brew information using an Express.js built server that interacts with a MongoDB database.  Continually learning and evolving the app build architecture and discovering best ways to manage the state of each React component."
+          ],
+          "keywords": [
+            "MongoDB",
+            "Node",
+            "Express",
+            "React"
+          ],
+          "url": "https://brewtracker.herokuapp.com/",
+          "type": "Web Application"
+        }
+  ],
+  "work": [
+    {
+      "company": "Thirsty Planet Brewing Company",
+          "position": "Brewer",
+          "website": "https://thirstyplanet.beer/",
+          "startDate": "2015-11-01",
+          "highlights": [
+            "Involved in the training and development of assistant brewers for a company that generates over $3 million in annual sales.",
+            "Commissioned new equipment. Reduced raw material cost of each brew thru metrics driven problem solving.",
+            "Created four seasonal beers annually including Dance Pants Kolsch Style Ale and Wizard Kitty Passion Fruit Beer.",
+            "Responsible for sourcing material, designing, brewing, and collaborating in branding.",
+            "Designed and developed quality control programs from end to end. Designs, tests, implements, and reviews brewing and sanitation techniques to improve product output and resolve integrity issues. Prolonged yeast raw material usage, thereby reducing costs."
+          ]
+    },
+    {
+      "company": "Thirsty Planet Brewing Company",
+        "position": "Assistant Brewer",
+        "website": "https://thirstyplanet.beer/",
+        "startDate": "2015-01-01",
+        "endDate": "2015-11-01",
+        "highlights": [
+          "Built knowledge base of all operational processes and systems to ensure a consistent product", 
+          "Designed and brewed experimental beers for the tasting room.",
+          "Collaborated with the marketing team to host private events and branding opportunities to grow the awareness of the Thirsty Plant product line.",
+          "Interacted with customers as a brand ambassador and server at a tasting room."
+        ]
+    },
+    { 
+        "company": "Environmental Scientist",
+        "position": "Alliant Environmental",
+        "startDate": "2012-02-01",
+        "endDate": "2014-09-01",
+        "highlights": [
+          "Managed over 20 environmental compliance projects for natural gas repair operations.",
+          "Detailed air emission calculations for over 30 natural-gas compressor stations to ensure regulatory compliance and operation. Pulled compressor runtime data from a SAP database and calculated emissions using Excel for annual compliance reporting to various state and federal authorities.",
+          "Designed, developed, analyzed, and presented monthly environmental metrics to department leads.",
+          "Coordinated annual corporate-wide environmental education event for TransCanada and helped organize marketing, catering, and webcast for over 500 people."
+        ]
+      }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+          "HTML/CSS",
+          "JavaScript",
+          "Express/Node.js",
+          "React + Redux",
+          "MongoDB",
+          "Responsive/Mobile Development"
+      ]
+    },
+    {
+      "name": "Technologies",
+      "keywords": [
+                "Heroku",
+                "Git/GitHub",
+                "WebPack",
+                "REST APIs"
+      ]
+    }
+  ]
+}
+  

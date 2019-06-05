@@ -1,0 +1,24 @@
+{
+  "name": "jsonresume",
+  "version": "1.0.0",
+  "description": "\"# kellyn\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "resume export index.html --format html --theme flat_projects"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellynb/kellyn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellynb/kellyn/issues"
+  },
+  "homepage": "https://github.com/kellynb/kellyn#readme",
+  "devDependencies": {
+    "jsonresume-theme-flat_projects": "github:kevincolten/jsonresume-theme-flat_projects#84491e5",
+    "resume-cli": "github:kevincolten/resume-cli#b05d465"
+  }
+}
